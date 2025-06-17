@@ -1,2 +1,3 @@
 # GPIF2AXI-interface
 GPIF-AXI interface
+FOR FX3 CYUSB3014
