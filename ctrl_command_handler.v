@@ -1,4 +1,24 @@
- module ctrl_command_handler (
+//////////////////////////////////////////////////////////////////////////////////
+// Company: THU
+// Engineer: Lianghao
+// 
+// Create Date: 2025/06/18 15:14:56
+// Design Name: 
+// Module Name: ctrl_command_handler
+// Project Name: 
+// Target Devices: 
+// Tool Versions: 
+// Description: 
+// 
+// Dependencies: 
+// 
+// Revision:
+// Revision 0.01 - File Created
+// Additional Comments:
+// 
+//////////////////////////////////////////////////////////////////////////////////
+
+module ctrl_command_handler (
     input  wire        inner_clk,
     input  wire        rst_n,
     input wire buffer_clk,
